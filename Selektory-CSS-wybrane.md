@@ -1,4 +1,4 @@
-# Selektory (wybrane)
+# Selektory CSS (wybrane)
 
 Objaśnienia w prawej kolumnie należy czytać, dodając przed nimi frazę `Dopasowuje element` lub `Dopasowuje elementy` (nagłówek prawej kolumny).
 
