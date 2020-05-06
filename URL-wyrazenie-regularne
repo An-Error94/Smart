@@ -1,0 +1,33 @@
+URL - znaki, jakie można w nim spotkać - zapis w postaci wyrażenia regularnego:
+[a-zA-Z0-9*\-._+%~/?&=;]
+czyli dopuszczalne są znaki:
+a-z
+A-Z
+0-9
+*
+-
+.
+_
++
+%
+~
+/
+?
+&
+=
+;
+
+Jako separator segmentów ścieżki URL należy stosować znak "/"!
+Znak "\" występuje w ścieżkach wielu systemów operacyjnych, ale nie powinien w URL.
+
+Dodatkowo w protokole oraz przed numerem portu jest:
+:
+
+Jako identyfikator fragmentu treści może występować:
+#
+
+Używane w adresach IPv6
+oraz
+mogą być używane jako opcjonalny element uprawnień:
+[
+]
