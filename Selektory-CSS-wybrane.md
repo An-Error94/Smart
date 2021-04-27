@@ -131,8 +131,4 @@ content: counters(item, ".");
 
 }
 
-# Przyszłość
-Selektory, które dołączę do niniejszego zestawienia po ich wdrożeniu:
-`:has()`, `||`
-
 [źródło](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
